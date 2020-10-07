@@ -1,15 +1,19 @@
-#EXTINF:-0 tvg-id="" tvg-name="☆☆ سهرة يوم الأحد ☆☆" tvg-logo="" group-title="☆☆ سهرة يوم الأحد ☆☆",☆☆ سهرة يوم الأحد ☆☆
+
+
+#EXTINF:-0 tvg-id="" tvg-name="☆☆ عثمان الغازي موسم الثاني ☆☆" tvg-logo="" group-title="☆☆ عثمان الغازي موسم الثاني ☆☆",☆☆ عثمان الغازي موسم الثاني ☆☆
 https://ia601400.us.archive.org/26/items/000_20190904/000.mp4?cnt=0
 
 
+#EXTINF:0,  حلقة اولى قسم اول
+ https://ms1.vidhdr.com/hls/73ztngkjw2xcdqtb7xkpnuqxjzrifzuinckrtiiruvafxulwdmzgu7prybsa/index-v1-a1.m3u8
+#EXTINF:0,  حلقة اولى قسم اول
+ https://ms7.vidhdr.com/hls/73ztngcjw2xcdqtb7xkpndyxcuhkn7bxf4q5xxegbrjdfk3jaxagfodqalma/index-v1-a1.m3u8
 
 
 
+#EXTINF:-0 tvg-id="" tvg-name="☆☆ سهرة يوم الأحد ☆☆" tvg-logo="" group-title="☆☆ سهرة يوم الأحد ☆☆",☆☆ سهرة يوم الأحد ☆☆
+https://ia601400.us.archive.org/26/items/000_20190904/000.mp4?cnt=0
 
-
-
-
-#EXTINF:0,
 
 
 
@@ -19,10 +23,8 @@ https://ia601400.us.archive.org/26/items/000_20190904/000.mp4?cnt=0
 
 #EXTINF:0,انت اطرق بابي 13 
 
-#EXTINF:0,
- 
-#EXTINF:0,
- 
+
+
 
 
 
