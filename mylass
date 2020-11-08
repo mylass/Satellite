@@ -1,16 +1,4 @@
 
 #EXTINF:-0 tvg-id="" tvg-name="▄▄▄▄ الهيبة الرد ▄▄▄▄" tvg-logo="" group-title="▄▄▄▄ الهيبة الرد ▄▄▄▄",▄▄▄▄ الهيبة الرد ▄▄▄▄
 https://www.dropbox.com/s/ws1m55zjjh9tzt3/%D8%B7%D9%84%D8%A8%D8%A7%D8%AA%D9%83%D9%85.wmv?dl=0
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="الهيبة الرد الموسم الرابع S04 E01" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع",الهيبة الرد الموسم الرابع S04 E01
-http://blackfiretv.net:25461/series/abomheden/18yZudGJRy/568.mkv
-#EXTINF:-1 tvg-id="" tvg-name="الهيبة الرد الموسم الرابع S04 E02" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع",الهيبة الرد الموسم الرابع S04 E02
-http://blackfiretv.net:25461/series/abomheden/18yZudGJRy/569.mkv
-#EXTINF:-1 tvg-id="" tvg-name="الهيبة الرد الموسم الرابع S04 E03" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع",الهيبة الرد الموسم الرابع S04 E03
-http://blackfiretv.net:25461/series/abomheden/18yZudGJRy/570.mkv
-#EXTINF:-1 tvg-id="" tvg-name="الهيبة الرد الموسم الرابع S04 E04" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع",الهيبة الرد الموسم الرابع S04 E04
-http://blackfiretv.net:25461/series/abomheden/18yZudGJRy/571.mkv
-#EXTINF:-1 tvg-id="" tvg-name="الهيبة الرد الموسم الرابع S04 E05" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع",الهيبة الرد الموسم الرابع S04 E05
-http://blackfiretv.net:25461/series/abomheden/18yZudGJRy/573.mkv
-#EXTINF:-1 tvg-id="" tvg-name="الهيبة الرد الموسم الرابع S04 E06" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع",الهيبة الرد الموسم الرابع S04 E06
-http://blackfiretv.net:25461/series/abomheden/18yZudGJRy/611.mkv
+http://blackfiretv.net:25461/get.php?username=abomheden&password=18yZudGJRy&type=m3u_plus&output=mpegts
